@@ -1,0 +1,10 @@
+#infovis{
+	width: 600px;
+	height: 600px;
+	background: #000;
+}
+
+#infovis-canvaswidget{
+	margin: 0 25px;
+}
+
