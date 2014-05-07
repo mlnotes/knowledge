@@ -53,7 +53,7 @@ function init(){
 			}, 
 			{
                 "id": "1_1_5",
-                "name": "Divide and Conquer"
+                "name": "Divide & Conquer"
 			}, 
 			{
                 "id": "1_1_6",
