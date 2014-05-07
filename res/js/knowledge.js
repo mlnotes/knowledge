@@ -268,10 +268,10 @@ function init(){
 		  if(node._depth < 1){
 			  style.fontSize = "1.0em";
 			  style.fontWeight = "bold";
-              style.color = "#FFF";
+              style.color = "#DDD";
 		  } else if (node._depth == 1) {
               style.fontSize = "0.8em";
-              style.color = "#FFF";
+              style.color = "#DDD";
 
           } else if(node._depth == 2){
               style.fontSize = "0.7em";
